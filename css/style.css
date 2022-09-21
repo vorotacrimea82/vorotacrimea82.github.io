@@ -71,7 +71,7 @@ a, a:active, a:hover {color: #000000; text-decoration: none; font-family: "Sourc
 @media (min-width: 0px) and (max-width: 550px) {.logo_towns img {display: block; margin-left: auto; margin-right: auto;}}
 
 .brand-product, .clients {/*background-color: #fa8368;*/ height: 18em; margin: 0 0 1em 0;}
-.brand-presentation h3, .video-from-objects h3, .brand-product h3, .clients h3, .contacs h3, .info_sp h3, .gallery_sp h3 {margin: 0; padding: .5em; color: #ffffffff; background-color: #fa8368;}
+.brand-presentation h3, .video-from-objects h3, .brand-product h3, .clients h3, .contacs h3, .info_sp h3, .gallery_sp h3, .our_works h3 {margin: 0; padding: .5em; color: #ffffffff; background-color: #fa8368;}
 
 .brand-presentation {min-height: 15em; display: block; margin: 0 0 1em 0;}
 @media (min-width: 0px) and (max-width: 414px) {.brand-presentation {min-height: 8em;}}
@@ -81,6 +81,9 @@ a, a:active, a:hover {color: #000000; text-decoration: none; font-family: "Sourc
 
 .video-from-objects {background-color: #fa8368; height: 18em; margin: 0 0 1em 0; width: 100%}
 .container {width: inherit;}
+
+.gallery_text_sp .gallery_link {margin: 0; padding: .5em; background-color: #7b7b7b; margin: 0 0 1em 0;}
+.gallery_text_sp .gallery_link a {color: rgb(255, 255, 255)}
 
 .logo_contacs_f_sp {margin: 0 0 1em 1em; display: block;}
 
